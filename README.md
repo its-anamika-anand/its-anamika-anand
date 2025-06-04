@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🎓 I’m Anamika Anand, a passionate learner currently pursuing a Bachelor's degree in English Honours.<br><br>💻 I’m currently working on enhancing my skills in web development and exploring the world of coding.<br><br>🌱 I’m currently learning front-end and back-end technologies to build dynamic and user-friendly web applications.<br><br>🤝 I’m looking to collaborate on exciting web development projects that challenge me to grow and create impactful solutions.<br><br>🎯 I’m looking for help with mastering advanced JavaScript concepts and full-stack development.<br><br>🎸 Fun Fact: When I’m not coding, you’ll probably find me strumming my guitar!
+🎓 I’m Anamika Anand, a passionate learner currently pursuing a Bachelor's degree in English Honours.<br><br>💻 I’m currently working on enhancing my skills in web development and exploring the world of coding.<br><br>🌱 I’m currently learning front-end and back-end technologies to build dynamic and user-friendly web applications.<br><br>🤝 I’m looking to collaborate on exciting web development projects that challenge me to grow and create impactful   solutions.<br><br>🎯 I’m looking for help with mastering advanced JavaScript concepts and full-stack development.<br><br>🎸 Fun Fact: When I’m not coding, you’ll probably find me strumming my guitar!
 
 <img align="right" height="350" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/104/205/original/image_processing20210301-3601-w1fbuc.gif?1700151755"  />
 
